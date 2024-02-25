@@ -1,0 +1,1 @@
+This creates an s3 bucket that can be used for storing the terraform state file and a dynamodb table that can be used for state locking
